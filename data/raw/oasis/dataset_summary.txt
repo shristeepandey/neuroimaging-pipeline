@@ -1,0 +1,20 @@
+======================================================================
+NEUROIMAGING DATASET SUMMARY
+======================================================================
+
+Total Subjects: 100
+
+Demographics:
+- Age: 50.8 ± 21.0 years
+- Sex: 52 Male, 48 Female
+- Education: 13.5 ± 3.5 years
+
+Diagnosis Distribution:
+- MCI: 39 (39.0%)
+- Control: 33 (33.0%)
+- Dementia: 28 (28.0%)
+
+Neuroimaging Metrics:
+- Brain Volume: 1086.2 ± 132.8 cm³
+- Hippocampal Volume: 7.15 ± 0.83 cm³
+- Cognitive Score: 51.3 ± 9.8
